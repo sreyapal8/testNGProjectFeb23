@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-09T09:03:39 CDT" name="variousConcepts.LoginTest" finished-at="2023-07-09T09:03:50 CDT" duration-ms="10553">
+    <groups>
+    </groups>
+    <test started-at="2023-07-09T09:03:39 CDT" name="Command line test" finished-at="2023-07-09T09:03:50 CDT" duration-ms="10553">
+      <class name="variousConcepts.LoginTest">
+        <test-method is-config="true" signature="readCongfig()[pri:0, instance:variousConcepts.LoginTest@3d34d211]" started-at="2023-07-09T09:03:39 CDT" name="readCongfig" finished-at="2023-07-09T09:03:39 CDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readCongfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcepts.LoginTest@3d34d211]" started-at="2023-07-09T09:03:39 CDT" name="init" finished-at="2023-07-09T09:03:44 CDT" duration-ms="4873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:variousConcepts.LoginTest@3d34d211]" started-at="2023-07-09T09:03:44 CDT" name="login" finished-at="2023-07-09T09:03:49 CDT" duration-ms="5359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcepts.LoginTest@3d34d211]" started-at="2023-07-09T09:03:49 CDT" name="tearDown" finished-at="2023-07-09T09:03:50 CDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcepts.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- variousConcepts.LoginTest -->
+</testng-results>
